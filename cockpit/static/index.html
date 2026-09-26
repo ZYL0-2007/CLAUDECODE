@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cockpit</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <canvas id="etoiles" aria-hidden="true"></canvas>
+
+  <div class="cockpit">
+    <header class="entete">
+      <div>
+        <div class="salut" id="salut">Bonjour</div>
+        <div class="date" id="date"></div>
+      </div>
+      <div class="horloge" id="horloge">00:00<span id="secondes">00</span></div>
+      <div class="actions">
+        <button class="icone" id="btn-plein" title="Plein écran (F)">⛶</button>
+        <button class="icone" id="btn-reglages" title="Réglages">⚙</button>
+      </div>
+    </header>
+
+    <!-- Briefing -->
+    <section class="carte briefing">
+      <div class="carte-titre"><span class="point"></span>Briefing IA</div>
+      <div class="briefing-corps">
+        <div class="onde" id="onde"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+        <p id="briefing-texte" class="briefing-texte">Appuie sur <b>Lancer</b> (ou la touche B) pour ton briefing.</p>
+      </div>
+      <div class="briefing-actions">
+        <button class="btn" id="btn-briefing">▶ Lancer le briefing</button>
+        <button class="btn fantome" id="btn-stop">■ Stop</button>
+      </div>
+    </section>
+
+    <!-- Météo -->
+    <section class="carte meteo">
+      <div class="carte-titre"><span class="point"></span>Météo <span class="sous" id="ville">—</span></div>
+      <div class="meteo-now">
+        <div class="meteo-icone" id="meteo-icone">·</div>
+        <div>
+          <div class="grand" id="meteo-temp">--°</div>
+          <div class="muet" id="meteo-desc">Chargement…</div>
+        </div>
+      </div>
+      <div class="jours" id="meteo-jours"></div>
+    </section>
+
+    <!-- Objectifs -->
+    <section class="carte objectifs">
+      <div class="carte-titre"><span class="point"></span>Objectifs du jour</div>
+      <div class="ligne-anneau">
+        <svg class="anneau" viewBox="0 0 120 120"><circle class="piste" cx="60" cy="60" r="52"/><circle class="valeur" id="anneau-taches" cx="60" cy="60" r="52"/></svg>
+        <div class="anneau-texte"><span class="grand" id="taches-pct">0%</span><span class="muet" id="taches-compte">0 / 0</span></div>
+      </div>
+      <ul class="liste" id="liste-taches"></ul>
+      <form class="ajout" id="form-tache"><input id="input-tache" placeholder="Nouvel objectif…" maxlength="120"><button class="btn petit">+</button></form>
+    </section>
+
+    <div class="colonne">
+    <!-- Habitudes -->
+    <section class="carte habitudes">
+      <div class="carte-titre"><span class="point"></span>Habitudes <span class="sous">7 derniers jours</span></div>
+      <div id="liste-habitudes" class="grille-habitudes"></div>
+      <form class="ajout" id="form-habitude"><input id="input-habitude" placeholder="Nouvelle habitude (ex : 💧 2L d'eau)" maxlength="40"><button class="btn petit">+</button></form>
+    </section>
+
+    <!-- Focus -->
+    <section class="carte focus">
+      <div class="carte-titre"><span class="point"></span>Focus <span class="sous" id="focus-sessions">0 session aujourd'hui</span></div>
+      <div class="ligne-anneau centre">
+        <svg class="anneau gros" viewBox="0 0 120 120"><circle class="piste" cx="60" cy="60" r="52"/><circle class="valeur" id="anneau-focus" cx="60" cy="60" r="52"/></svg>
+        <div class="anneau-texte"><span class="chrono" id="focus-temps">25:00</span><span class="muet" id="focus-etat">prêt</span></div>
+      </div>
+      <div class="focus-actions">
+        <button class="btn" id="btn-focus">▶ Démarrer</button>
+        <button class="btn fantome" id="btn-focus-reset">↺</button>
+        <select id="focus-duree" class="select">
+          <option value="25">25 min</option><option value="50">50 min</option><option value="15">15 min</option>
+        </select>
+      </div>
+    </section>
+    </div>
+
+    <!-- Argent -->
+    <section class="carte argent">
+      <div class="carte-titre"><span class="point"></span>Budget <span class="sous" id="mois"></span></div>
+      <div class="ligne-anneau">
+        <svg class="anneau" viewBox="0 0 120 120"><circle class="piste" cx="60" cy="60" r="52"/><circle class="valeur" id="anneau-budget" cx="60" cy="60" r="52"/></svg>
+        <div class="anneau-texte"><span class="grand" id="budget-reste">0 €</span><span class="muet">restants</span></div>
+      </div>
+      <div class="barre-info"><span id="budget-depense">0 € dépensés</span><span id="budget-jour"></span></div>
+      <form class="ajout" id="form-depense">
+        <input id="input-montant" type="number" step="0.01" min="0" placeholder="€" class="montant">
+        <input id="input-libelle" placeholder="Quoi ? (ex : kebab)" maxlength="40">
+        <button class="btn petit">+</button>
+      </form>
+      <ul class="liste compacte" id="liste-depenses"></ul>
+    </section>
+
+  </div>
+
+  <!-- Réglages -->
+  <dialog id="reglages">
+    <form method="dialog" id="form-reglages">
+      <h2>Réglages</h2>
+      <label>Ton prénom<input id="r-prenom" maxlength="30"></label>
+      <label>Ta ville (météo)<input id="r-ville" placeholder="ex : Lyon" maxlength="60"></label>
+      <label>Budget mensuel (€)<input id="r-budget" type="number" min="0" step="10"></label>
+      <div class="dialog-actions">
+        <button class="btn fantome" value="annuler">Annuler</button>
+        <button class="btn" value="ok" id="r-ok">Enregistrer</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
