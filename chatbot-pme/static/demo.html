@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Démo chatbot</title>
+  <style>
+    body { margin: 0; font: 16px/1.5 system-ui, sans-serif; color: #1f2937; background: #fff; }
+    header { background: #111827; color: #fff; padding: 48px 16px; text-align: center; }
+    main { max-width: 720px; margin: 32px auto; padding: 0 16px; }
+    code { background: #f3f4f6; padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Faux site de démonstration</h1>
+    <p>Cliquez sur la bulle 💬 en bas à droite.</p>
+  </header>
+  <main>
+    <p>Essayez par exemple :</p>
+    <ul>
+      <li>« Vous êtes ouverts samedi ? »</li>
+      <li>« Combien coûte une vidange ? »</li>
+      <li>« Je voudrais un rendez-vous pour mes pneus » (le prospect finit dans <code>prospects.csv</code>)</li>
+    </ul>
+    <p>Pour l'installer sur le site d'un client, une seule ligne suffit :</p>
+    <p><code>&lt;script src="https://votre-serveur/static/widget.js" defer&gt;&lt;/script&gt;</code></p>
+  </main>
+  <script src="/static/widget.js" defer></script>
+</body>
+</html>

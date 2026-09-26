@@ -1,0 +1,29 @@
+# ─────────────────────────────────────────────────────────────
+#  Fiche de l'entreprise : c'est LE SEUL fichier à modifier
+#  pour chaque nouveau client.
+# ─────────────────────────────────────────────────────────────
+nom: "Garage Martin Auto"
+activite: "Garage automobile : entretien, réparation, pneus, contrôle technique"
+adresse: "12 rue des Lilas, 69003 Lyon"
+telephone: "04 78 00 00 00"
+email: "contact@garage-martin.fr"
+ton: "chaleureux, simple, tutoiement interdit"
+
+horaires:
+  lundi-vendredi: "8h00 - 12h00 / 14h00 - 18h30"
+  samedi: "9h00 - 12h00"
+  dimanche: "fermé"
+
+tarifs:
+  - "Vidange + filtre à huile : à partir de 79 €"
+  - "Révision complète : à partir de 159 €"
+  - "Montage et équilibrage de 4 pneus : 60 €"
+  - "Diagnostic électronique : 49 € (offert si réparation effectuée chez nous)"
+
+faq:
+  - q: "Faut-il prendre rendez-vous ?"
+    r: "Oui pour les révisions et réparations. Pour une crevaison, on essaie de vous prendre dans la journée."
+  - q: "Prêtez-vous un véhicule ?"
+    r: "Oui, un véhicule de courtoisie est disponible sur réservation (gratuit, carburant à votre charge)."
+  - q: "Quels moyens de paiement ?"
+    r: "Carte bancaire, espèces, virement. Paiement en 3 fois sans frais au-dessus de 300 €."
