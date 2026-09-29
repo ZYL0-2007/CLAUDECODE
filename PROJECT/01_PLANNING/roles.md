@@ -18,7 +18,7 @@ Périmètre : ce qui est attendu en janvier, c'est-à-dire l'explication orale d
 | Membre | Rôle transversal | Parties du dossier (auteur) | Référent expertises | Charge individuelle estimée |
 |---|---|---|---|---|
 | **Iliess** | Pilotage : planning, journal de décisions, lien avec le prof (≈ 10 h) | Introduction et conclusion ; Positionnement ; Modèle économique | Horlogerie | ≈ 25 h |
-| **Salomé** | Mise en page du dossier et du support oral (≈ 13 h) | Offre et parcours client (l'expérience vécue, la scénographie) | Design intérieur, maroquinerie | ≈ 25 h |
+| **Salomé** | Mise en page du dossier et du support oral (≈ 13 h) + inspirations magazine | Offre et parcours client (l'expérience vécue, la scénographie) | Design intérieur, maroquinerie | ≈ 28 h |
 | **Pauline** | Animation des ateliers problème et concept (≈ 4 h) | Concept et différenciation ; Cible et personas | Mode, joaillerie | ≈ 26 h |
 | **Lola** | Terrain : guide d'entretien, entretiens, comptes rendus (≈ 10 h) | Problème et preuves terrain ; Plateforme de marque (mission, valeurs, manifeste) | Parfumerie, cosmétique | ≈ 25 h |
 | **Louise** | Données : questionnaire, veille, contrôle des sources (≈ 10 h) | Marché et tendances ; Benchmark concurrentiel | Hôtellerie, tourisme | ≈ 25 h |
@@ -39,6 +39,7 @@ Iliess n'a qu'une seule expertise parce que le pilotage représente environ 10 h
 | Salomé | Partie Offre et parcours client | 20/11 | 6 |
 | Salomé | Équipe Canva, convention de nommage, note coaching scénographie | 04/10 → 09/10 | 3 |
 | Salomé | Fiches expertises design intérieur + maroquinerie | 13/11 | 3 |
+| Salomé | Planche d'inspirations magazine (benchmark de 8 à 10 magazines, sans DA figée) | 25/10 | 3 |
 | Pauline | Préparation et animation des ateliers du 09/10 et du 30/10 | 09/10 → 30/10 | 4 |
 | Pauline | 2 fiches concept + tests auprès de la cible (avec Lola) | 30/10 → 03/11 | 5 |
 | Pauline | Partie Concept et différenciation | 20/11 | 5 |
@@ -56,7 +57,7 @@ Iliess n'a qu'une seule expertise parce que le pilotage représente environ 10 h
 | Louise | Vérification des noms (INPI, domaine, Instagram) + contrôle des sources du dossier | 10/11 → 10/12 | 4 |
 | Louise | Fiches expertises hôtellerie + tourisme | 13/11 | 3 |
 
-Totaux : Iliess 25 h · Salomé 25 h · Pauline 26 h · Lola 25 h · Louise 25 h.
+Totaux : Iliess 25 h · Salomé 28 h · Pauline 26 h · Lola 25 h · Louise 25 h.
 
 ## Tâches tournantes (pour ne pas toujours charger les mêmes)
 

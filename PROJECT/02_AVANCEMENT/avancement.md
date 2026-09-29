@@ -14,6 +14,7 @@ Cadrage bien avancé : rôles définis et validés, Drive partagé avec les 4, r
 | Iliess | Partager le dossier Drive avec les 4 autres | FAIT (29/09) | 02/10 | — |
 | Iliess | Transmettre à Pauline la revue de sa proposition | FAIT (29/09) | 29/09 | — |
 | Salomé | Ouvrir l'équipe Canva et fixer la convention de nommage | À FAIRE | 04/10 | — |
+| Salomé | Planche d'inspirations magazine (benchmark, sans DA figée) | EN COURS | 25/10 | — |
 | Louise | Tableau dispos + logiciels maîtrisés des 5 | À FAIRE | 03/10 | — |
 | Lola | Guide d'entretien terrain (relu par Iliess) | À FAIRE | 08/10 | — |
 | Louise | Questionnaire en ligne, puis diffusion avec Lola | À FAIRE | 08/10 → 10/10 | — |
