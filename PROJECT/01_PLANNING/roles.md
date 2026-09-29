@@ -1,7 +1,7 @@
 # RÉPARTITION DES RÔLES — VERSION ÉQUILIBRÉE (jusqu'à l'oral de janvier)
 
 Dernière mise à jour : 29/09/2026
-Statut : VALIDÉ par l'équipe le 29/09 (confirmé par Iliess). Les référents d'expertises restent échangeables à la réunion du 30/09.
+Statut : VALIDÉ par l'équipe le 29/09 (confirmé par Iliess). Référents mis à jour le 29/09 avec la liste officielle ISG (échangeables).
 Périmètre : ce qui est attendu en janvier, c'est-à-dire l'explication orale du concept + le dossier écrit.
 
 ## Principe d'équité
@@ -17,11 +17,11 @@ Périmètre : ce qui est attendu en janvier, c'est-à-dire l'explication orale d
 
 | Membre | Rôle transversal | Parties du dossier (auteur) | Référent expertises | Charge individuelle estimée |
 |---|---|---|---|---|
-| **Iliess** | Pilotage : planning, journal de décisions, lien avec le prof (≈ 10 h) | Introduction et conclusion ; Positionnement ; Modèle économique | Horlogerie | ≈ 25 h |
-| **Salomé** | Mise en page du dossier et du support oral (≈ 13 h) + inspirations magazine | Offre et parcours client (l'expérience vécue, la scénographie) | Design intérieur, maroquinerie | ≈ 28 h |
-| **Pauline** | Animation des ateliers problème et concept (≈ 4 h) | Concept et différenciation ; Cible et personas | Mode, joaillerie | ≈ 26 h |
-| **Lola** | Terrain : guide d'entretien, entretiens, comptes rendus (≈ 10 h) | Problème et preuves terrain ; Plateforme de marque (mission, valeurs, manifeste) | Parfumerie, cosmétique | ≈ 25 h |
-| **Louise** | Données : questionnaire, veille, contrôle des sources (≈ 10 h) | Marché et tendances ; Benchmark concurrentiel | Hôtellerie, tourisme | ≈ 25 h |
+| **Iliess** | Pilotage : planning, journal de décisions, lien avec le prof (≈ 10 h) | Introduction et conclusion ; Positionnement ; Modèle économique | Automobile de luxe et mobilités | ≈ 25 h |
+| **Salomé** | Mise en page du dossier et du support oral (≈ 13 h) + inspirations magazine | Offre et parcours client (l'expérience vécue, la scénographie) | Design mobilier et décoration d'intérieur, immobilier de luxe et architecture | ≈ 28 h |
+| **Pauline** | Animation des ateliers problème et concept (≈ 4 h) | Concept et différenciation ; Cible et personas | Mode et haute couture, maroquinerie-accessoires-souliers | ≈ 26 h |
+| **Lola** | Terrain : guide d'entretien, entretiens, comptes rendus (≈ 10 h) | Problème et preuves terrain ; Plateforme de marque (mission, valeurs, manifeste) | Parfumerie et cosmétique, gastronomie-œnologie-arts de la table | ≈ 25 h |
+| **Louise** | Données : questionnaire, veille, contrôle des sources (≈ 10 h) | Marché et tendances ; Benchmark concurrentiel | Tourisme et hôtellerie, horlogerie et joaillerie | ≈ 25 h |
 
 Iliess n'a qu'une seule expertise parce que le pilotage représente environ 10 h de plus.
 
@@ -33,29 +33,29 @@ Iliess n'a qu'une seule expertise parce que le pilotage représente environ 10 h
 | Iliess | Note positionnement + modèle économique V0, puis modèle économique V1 | 02/11 → 26/11 | 8 |
 | Iliess | Introduction, conclusion, plan détaillé du dossier | 06/11 → 26/11 | 3 |
 | Iliess | Storyline de l'oral (avec Lola) | 04/12 | 2 |
-| Iliess | Fiche expertise horlogerie | 13/11 | 2 |
+| Iliess | Fiche expertise automobile et mobilités | 13/11 | 2 |
 | Salomé | Gabarit du dossier, mise en page V1 et V2, schémas | 06/11 → 06/12 | 9 |
 | Salomé | Support oral (slides, si autorisées) | 08/12 → 12/12 | 4 |
 | Salomé | Partie Offre et parcours client | 20/11 | 6 |
 | Salomé | Équipe Canva, convention de nommage, note coaching scénographie | 04/10 → 09/10 | 3 |
-| Salomé | Fiches expertises design intérieur + maroquinerie | 13/11 | 3 |
+| Salomé | Fiches expertises design d'intérieur + immobilier et architecture | 13/11 | 3 |
 | Salomé | Planche d'inspirations magazine (benchmark de 8 à 10 magazines, sans DA figée) | 25/10 | 3 |
 | Pauline | Préparation et animation des ateliers du 09/10 et du 30/10 | 09/10 → 30/10 | 4 |
 | Pauline | 2 fiches concept + tests auprès de la cible (avec Lola) | 30/10 → 03/11 | 5 |
 | Pauline | Partie Concept et différenciation | 20/11 | 5 |
 | Pauline | Note puis partie Cible et personas (à partir des entretiens et du questionnaire) | 02/11 → 20/11 | 4 |
 | Pauline | Longue liste de noms + moodboard de direction visuelle | 10/11 → 06/12 | 5 |
-| Pauline | Fiches expertises mode + joaillerie | 13/11 | 3 |
+| Pauline | Fiches expertises mode + maroquinerie | 13/11 | 3 |
 | Lola | Guide d'entretien, 5 à 8 entretiens, comptes rendus | 08/10 → 16/10 | 10 |
 | Lola | Partie Problème et preuves terrain | 20/11 | 5 |
 | Lola | Plateforme de marque (mission, valeurs, ton, manifeste court) | 13/11 | 5 |
 | Lola | Storyline de l'oral (avec Iliess) | 04/12 | 2 |
-| Lola | Fiches expertises parfumerie + cosmétique | 13/11 | 3 |
+| Lola | Fiches expertises parfumerie-cosmétique + gastronomie | 13/11 | 3 |
 | Louise | Tableau dispos, questionnaire (création, diffusion, analyse) | 03/10 → 16/10 | 6 |
 | Louise | Benchmark concurrentiel + matrice de positionnement | 23/10 | 7 |
 | Louise | Partie Marché et tendances (chaque chiffre : source, date, URL) | 20/11 | 5 |
 | Louise | Vérification des noms (INPI, domaine, Instagram) + contrôle des sources du dossier | 10/11 → 10/12 | 4 |
-| Louise | Fiches expertises hôtellerie + tourisme | 13/11 | 3 |
+| Louise | Fiches expertises tourisme-hôtellerie + horlogerie-joaillerie | 13/11 | 3 |
 
 Totaux : Iliess 25 h · Salomé 28 h · Pauline 26 h · Lola 25 h · Louise 25 h.
 

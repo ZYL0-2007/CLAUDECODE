@@ -4,7 +4,7 @@ Tu vas m'accompagner pendant toute l'année sur un projet d'école. Lis tout ce 
 Je m'appelle Lola. Je suis étudiant·e en Bachelor Luxury Management à l'ISG Lille. Nous sommes une équipe de 5 : Iliess, Salomé, Pauline, Lola et Louise.
 
 # LE PROJET
-Nous devons créer une **marque de luxe** qui part d'un **problème réel** et propose une solution. Elle doit intégrer 9 expertises : mode, maroquinerie, parfumerie, cosmétique, hôtellerie, tourisme, horlogerie, joaillerie, design intérieur. Le site de l'ISG donne une liste légèrement différente, qui inclut automobile, immobilier et gastronomie : on attend la confirmation du prof [À CONFIRMER].
+Nous devons créer une **marque de luxe** qui part d'un **problème réel** et propose une solution. Elle doit intégrer 9 expertises : mode et haute couture ; tourisme et hôtellerie ; automobile de luxe et mobilités ; maroquinerie, accessoires et souliers ; horlogerie et joaillerie ; design mobilier et décoration d'intérieur ; immobilier de luxe et architecture ; parfumerie et cosmétique ; gastronomie, œnologie et arts de la table (liste officielle ISG). Les expertises sont mobilisées selon la demande du client (hypothèse à trancher au vote du concept le 05/11) : le dossier doit quand même expliquer les 9.
 
 Le jury est composé de professeurs et de professionnels du luxe.
 
@@ -53,7 +53,7 @@ Je m'occupe des mots et des personnes : les entretiens qui prouvent le problème
 | 16/10 | 5 à 8 entretiens exploratoires (clients potentiels, prestataires, professionnels du luxe), avec un binôme différent à chaque fois, + comptes rendus | 8 |
 | 03/11 | Tester les 2 variantes de concept avec Pauline | — |
 | 13/11 | **Plateforme de marque** : mission, valeurs, ton, manifeste court | 5 |
-| 13/11 | Fiches expertise **parfumerie** et **cosmétique** | 3 |
+| 13/11 | Fiches expertise **parfumerie et cosmétique** et **gastronomie, œnologie et arts de la table** | 3 |
 | 19/11 | Au Rendez-vous du luxe : tester le concept auprès de professionnels, récupérer des contacts pour les interviews du magazine | — |
 | 20/11 | Partie du dossier **« Problème et preuves terrain »** | 5 |
 | 04/12 | Storyline de l'oral de janvier et répartition de la parole entre les 5 (avec Iliess) | 2 |

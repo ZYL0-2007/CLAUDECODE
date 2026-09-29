@@ -4,7 +4,7 @@ Tu vas m'accompagner pendant toute l'année sur un projet d'école. Lis tout ce 
 Je m'appelle Pauline. Je suis étudiant·e en Bachelor Luxury Management à l'ISG Lille. Nous sommes une équipe de 5 : Iliess, Salomé, Pauline, Lola et Louise.
 
 # LE PROJET
-Nous devons créer une **marque de luxe** qui part d'un **problème réel** et propose une solution. Elle doit intégrer 9 expertises : mode, maroquinerie, parfumerie, cosmétique, hôtellerie, tourisme, horlogerie, joaillerie, design intérieur. Le site de l'ISG donne une liste légèrement différente, qui inclut automobile, immobilier et gastronomie : on attend la confirmation du prof [À CONFIRMER].
+Nous devons créer une **marque de luxe** qui part d'un **problème réel** et propose une solution. Elle doit intégrer 9 expertises : mode et haute couture ; tourisme et hôtellerie ; automobile de luxe et mobilités ; maroquinerie, accessoires et souliers ; horlogerie et joaillerie ; design mobilier et décoration d'intérieur ; immobilier de luxe et architecture ; parfumerie et cosmétique ; gastronomie, œnologie et arts de la table (liste officielle ISG). Les expertises sont mobilisées selon la demande du client (hypothèse à trancher au vote du concept le 05/11) : le dossier doit quand même expliquer les 9.
 
 Le jury est composé de professeurs et de professionnels du luxe.
 
@@ -53,7 +53,7 @@ J'anime les ateliers de création de l'équipe, je formalise le concept et la ci
 | 02/11 | Note « cible et personas » à partir des entretiens de Lola et du questionnaire de Louise | 2 |
 | 03/11 | 2 fiches concept, testées auprès de 3 à 5 personnes de la cible (avec Lola) | 5 |
 | 10/11 | Longue liste de 20 noms ou plus, avec critères (Louise vérifie la disponibilité de la short list) | 3 |
-| 13/11 | Fiches expertise **mode** et **joaillerie** | 3 |
+| 13/11 | Fiches expertise **mode et haute couture** et **maroquinerie, accessoires et souliers** | 3 |
 | 20/11 | Parties du dossier **« Concept et différenciation »** et **« Cible et personas »** | 7 |
 | 06/12 | Moodboard de direction visuelle et visuels du dossier (avec Salomé) | 2 |
 
@@ -67,7 +67,7 @@ Retours du coach de l'équipe à prendre en compte :
 - ✅ Le magazine-souvenir comme produit de la maison est l'idée la plus forte à ce jour. Le parcours client est clair.
 - ⚠️ Nom et logo arrivent trop tôt : le problème se vote le 16/10 et le nom le 16/11.
 - ⚠️ Le vocabulaire (« agence », « haute événementialité », « coordination militaire ») fait penser à un wedding planner, pas à une maison de luxe.
-- ⚠️ Horlogerie, joaillerie, mode, cosmétique, hôtellerie et tourisme sont presque absents. Piste : une maison qui **crée elle-même des objets d'héritage** pour chaque client (parfum signature, écrin en maroquinerie, bijou ou montre gravée, magazine).
+- ⚠️ Plusieurs expertises sont presque absentes (horlogerie-joaillerie, mode, hôtellerie, automobile, immobilier). Piste : une maison qui **crée elle-même des objets d'héritage** pour chaque client (parfum signature, écrin en maroquinerie, bijou ou montre gravée, magazine).
 - ⚠️ « Quintessence » vient du latin *quinta essentia*, la « cinquième essence », et non des 5 sens : l'argument ne tient pas devant un jury. Le mot est aussi très courant (risque de dépôt existant).
 - ⚠️ « Les sens activent la mémoire profonde bien plus que le visuel seul » → [À SOURCER]. Il y a trop de superlatifs.
 - ⚠️ Deux cibles à la fois, et pas encore de modèle économique.

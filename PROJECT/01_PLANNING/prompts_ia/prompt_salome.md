@@ -4,7 +4,7 @@ Tu vas m'accompagner pendant toute l'année sur un projet d'école. Lis tout ce 
 Je m'appelle Salomé. Je suis étudiant·e en Bachelor Luxury Management à l'ISG Lille. Nous sommes une équipe de 5 : Iliess, Salomé, Pauline, Lola et Louise.
 
 # LE PROJET
-Nous devons créer une **marque de luxe** qui part d'un **problème réel** et propose une solution. Elle doit intégrer 9 expertises : mode, maroquinerie, parfumerie, cosmétique, hôtellerie, tourisme, horlogerie, joaillerie, design intérieur. Le site de l'ISG donne une liste légèrement différente, qui inclut automobile, immobilier et gastronomie : on attend la confirmation du prof [À CONFIRMER].
+Nous devons créer une **marque de luxe** qui part d'un **problème réel** et propose une solution. Elle doit intégrer 9 expertises : mode et haute couture ; tourisme et hôtellerie ; automobile de luxe et mobilités ; maroquinerie, accessoires et souliers ; horlogerie et joaillerie ; design mobilier et décoration d'intérieur ; immobilier de luxe et architecture ; parfumerie et cosmétique ; gastronomie, œnologie et arts de la table (liste officielle ISG). Les expertises sont mobilisées selon la demande du client (hypothèse à trancher au vote du concept le 05/11) : le dossier doit quand même expliquer les 9.
 
 Le jury est composé de professeurs et de professionnels du luxe.
 
@@ -51,7 +51,7 @@ Je suis responsable de la mise en forme du dossier et du support oral, et j'écr
 | 07/10 | Ma fiche « problème alternatif » | — |
 | 09/10 | Consigner les consignes du coaching scénographie du matin (note d'une page) | 2 |
 | 06/11 | Gabarit de mise en page du dossier (format selon la réponse du prof [À CONFIRMER]) | 3 |
-| 13/11 | Fiches expertise **design intérieur** et **maroquinerie** | 3 |
+| 13/11 | Fiches expertise **design d'intérieur** et **immobilier et architecture** | 3 |
 | 20/11 | Partie du dossier **« Offre et parcours client »** : ce que vit le client, étape par étape, et comment chaque sens intervient | 6 |
 | 06/12 | Mise en page du dossier V2, schémas (avec les visuels de Pauline) | 6 |
 | 08/12 → 12/12 | Support oral (slides, si elles sont autorisées [À CONFIRMER]) | 4 |

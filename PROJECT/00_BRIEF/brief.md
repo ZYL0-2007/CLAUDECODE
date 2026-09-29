@@ -9,7 +9,7 @@ Source : réponses de l'équipe (Iliess, 29/09/2026). Le brief officiel de l'ISG
 |---|---|---|
 | École | ISG Lille — Bachelor Luxury Management | FAIT |
 | Livrable principal | Créer une marque de luxe : problème réel → solution | FAIT |
-| Expertises à couvrir | Mode, maroquinerie, parfumerie, cosmétique, hôtellerie, tourisme, horlogerie, joaillerie, design intérieur | FAIT |
+| Expertises à couvrir (liste officielle ISG) | Mode et haute couture · Tourisme et hôtellerie · Automobile de luxe et mobilités · Maroquinerie, accessoires et souliers · Horlogerie et joaillerie · Design mobilier et décoration d'intérieur · Immobilier de luxe et architecture · Parfumerie et cosmétique · Gastronomie, œnologie et arts de la table | FAIT (capture ISG, 29/09) |
 | Jury | Professeurs + professionnels du luxe | FAIT |
 | Brief officiel / grille | Pas encore envoyé | [À CONFIRMER] |
 | Critères de notation | Inconnus | [À CONFIRMER] |
@@ -82,5 +82,5 @@ Disponibilités d'Iliess : travail freelance en semaine 17h45–21h, samedi 8h30
 ## Ce que dit la recherche publique (à vérifier : pages lues via extraits de recherche uniquement)
 
 - L'ISG décrit un « projet magazine de Bachelor 2 » : toute l'année, magazine créé de A à Z (recherche éditoriale, graphisme, shootings, rédaction, stratégie marketing/communication, impression), jury final équipe pédagogique + professionnels, plan de communication et de lancement inclus. Lien avec notre projet [À CONFIRMER]. Source : https://isg-luxury.fr/ecole-luxe/actualite-luxe/projet-magazine (consulté le 29/09/2026).
-- ⚠️ La liste officielle des 9 expertises du Bachelor sur le site ISG **diffère** de la nôtre : design/mobilier/décoration d'intérieur ; haute couture et mode ; horlogerie/bijouterie/joaillerie ; automobile de luxe et mobilités ; parfumerie/cosmétiques/spa ; tourisme/hôtellerie/lifestyle ; immobilier de luxe et architecture ; maroquinerie/accessoires/souliers ; gastronomie/œnologie/art de la table. Source : https://isg-luxury.fr/bachelor-luxe (consulté le 29/09/2026). → Quelle liste fait foi ? [À CONFIRMER avec le prof]
+- ⚠️ La liste officielle des 9 expertises du Bachelor sur le site ISG **diffère** de la nôtre : design/mobilier/décoration d'intérieur ; haute couture et mode ; horlogerie/bijouterie/joaillerie ; automobile de luxe et mobilités ; parfumerie/cosmétiques/spa ; tourisme/hôtellerie/lifestyle ; immobilier de luxe et architecture ; maroquinerie/accessoires/souliers ; gastronomie/œnologie/art de la table. Source : https://isg-luxury.fr/bachelor-luxe (consulté le 29/09/2026). → **Confirmé le 29/09 : c'est cette liste qui fait foi.**
 - Prix d'impression d'un magazine de 100 pages en 1 à 10 exemplaires : [À SOURCER]. Aucun prix n'était lisible ; plusieurs imprimeurs annoncent le dos carré collé dès 1 exemplaire (voir 10_SOURCES).

@@ -4,7 +4,7 @@ Tu vas m'accompagner pendant toute l'année sur un projet d'école. Lis tout ce 
 Je m'appelle Louise. Je suis étudiant·e en Bachelor Luxury Management à l'ISG Lille. Nous sommes une équipe de 5 : Iliess, Salomé, Pauline, Lola et Louise.
 
 # LE PROJET
-Nous devons créer une **marque de luxe** qui part d'un **problème réel** et propose une solution. Elle doit intégrer 9 expertises : mode, maroquinerie, parfumerie, cosmétique, hôtellerie, tourisme, horlogerie, joaillerie, design intérieur. Le site de l'ISG donne une liste légèrement différente, qui inclut automobile, immobilier et gastronomie : on attend la confirmation du prof [À CONFIRMER].
+Nous devons créer une **marque de luxe** qui part d'un **problème réel** et propose une solution. Elle doit intégrer 9 expertises : mode et haute couture ; tourisme et hôtellerie ; automobile de luxe et mobilités ; maroquinerie, accessoires et souliers ; horlogerie et joaillerie ; design mobilier et décoration d'intérieur ; immobilier de luxe et architecture ; parfumerie et cosmétique ; gastronomie, œnologie et arts de la table (liste officielle ISG). Les expertises sont mobilisées selon la demande du client (hypothèse à trancher au vote du concept le 05/11) : le dossier doit quand même expliquer les 9.
 
 Le jury est composé de professeurs et de professionnels du luxe.
 
@@ -52,7 +52,7 @@ Je m'occupe des plateformes et des chiffres : le questionnaire, le benchmark, le
 | 08/10 → 16/10 | Questionnaire en ligne : création (08/10), diffusion avec Lola (10/10), analyse (16/10) | 5 |
 | 23/10 | **Benchmark concurrentiel** : wedding planners de luxe, agences événementielles et d'expériences, conciergeries, parfum sur mesure, design sonore, maisons multi-métiers. Pour chacun : nom, pays, offre, clientèle, similitude, différence, source, date. Plus une matrice de positionnement. **Dire clairement si notre concept existe déjà.** | 7 |
 | 10/11 | Vérifier la disponibilité des noms de la short list : INPI, nom de domaine, compte Instagram | 2 |
-| 13/11 | Fiches expertise **hôtellerie** et **tourisme** | 3 |
+| 13/11 | Fiches expertise **tourisme et hôtellerie** et **horlogerie et joaillerie** | 3 |
 | 20/11 | Partie du dossier **« Marché et tendances »** : chaque chiffre avec source, date et URL | 5 |
 | 10/12 | Contrôle des sources de tout le dossier | 2 |
 | Janvier | Prendre en notes les retours du jury, mot pour mot | — |
