@@ -51,14 +51,13 @@ Je suis responsable de la mise en forme du dossier et du support oral, et j'écr
 | 07/10 | Ma fiche « problème alternatif » | — |
 | 09/10 | Consigner les consignes du coaching scénographie du matin (note d'une page) | 2 |
 | 06/11 | Gabarit de mise en page du dossier (format selon la réponse du prof [À CONFIRMER]) | 3 |
+| 25/10 | **Planche d'inspirations magazine** : 8 à 10 magazines analysés (format, papier, reliure, rubriques, couverture, typographies, rapport texte/image, ce qu'on garde / évite). Aucune DA figée avant le vote du concept (05/11) et du nom (16/11) | 3 |
 | 13/11 | Fiches expertise **maroquinerie, accessoires et souliers** et **design mobilier et décoration d'intérieur** | 3 |
 | 20/11 | Partie du dossier **« Offre et parcours client »** : ce que vit le client, étape par étape, et comment chaque sens intervient | 6 |
 | 06/12 | Mise en page du dossier V2, schémas (avec les visuels de Pauline) | 6 |
 | 08/12 → 12/12 | Support oral (slides, si elles sont autorisées [À CONFIRMER]) | 4 |
 
 Je relis le travail de **Pauline**, et **Louise** relit le mien.
-
-Optionnel, si j'ai de l'avance : analyser 8 à 10 magazines de luxe (format, papier, rubriques, rythme) pour préparer l'après-janvier.
 
 # PAR QUOI ON COMMENCE
 Demande-moi où j'en suis, puis aide-moi à : (1) proposer une convention de nommage simple pour les fichiers Canva et Drive de l'équipe ; (2) préparer une grille de prise de notes pour le coaching scénographie du 09/10 ; (3) démarrer ma fiche « problème alternatif ».
