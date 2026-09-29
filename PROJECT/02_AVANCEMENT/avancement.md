@@ -4,7 +4,7 @@
 29/09/2026
 
 ## État global
-Cadrage bien avancé : rôles définis et validés, Drive partagé avec les 4, revue transmise à Pauline. Janvier = explication orale du concept + dossier écrit. Il manque la date exacte et le format du dossier (email au prof).
+Cadrage terminé côté équipe : rôles, règle de décision, point du mercredi et référents des 9 expertises (liste officielle ISG) validés le 29/09. Brief officiel attendu (la prof le publie « au plus vite »).
 
 ## Tâches par membre
 | MEMBRE | TÂCHE | STATUT | DEADLINE | RETARD |
@@ -25,16 +25,15 @@ Cadrage bien avancé : rôles définis et validés, Drive partagé avec les 4, r
 ## Blocages
 - Brief officiel, grille de notation, date de rendu D et date de soutenance inconnus.
 - Oral « début janvier » en conflit avec les partiels du S1 (04–13/01/2027, agenda Cours) : date exacte à obtenir.
-- Liste des 9 expertises : celle du projet diffère de celle affichée sur le site ISG (qui inclut automobile, immobilier, gastronomie) — à faire trancher par le prof.
 - Budget d'impression « aucun » ambigu (pas de plafond ou 0 €) ; aucun prix d'impression sourcé à ce jour.
 - Disponibilités et logiciels de Salomé, Pauline, Lola et Louise inconnus.
 
 ## Priorités immédiates
-1. Iliess : dès que le brief est publié, me l'envoyer pour recaler le planning ; sinon relancer la prof au coaching du 13/10 avec les questions restantes.
-2. Mer. 07/10, point d'équipe : chacun apporte sa fiche « problème alternatif ».
-3. Chacun : coller son prompt IA (Drive > 01_PLANNING > Prompts IA) et démarrer ses premières tâches.
-4. Sam. 03/10, Louise : tableau des disponibilités et des logiciels ; dim. 04/10, Salomé : équipe Canva et convention de nommage.
-5. Pour le mer. 07/10, ÉQUIPE : 1 fiche « problème alternatif » chacun ; Lola le guide d'entretien et Louise le questionnaire pour le 08/10.
+1. Iliess : envoyer à chacun le lien de son prompt IA (Drive > 01_PLANNING > Prompts IA).
+2. Sam. 03/10, Louise : tableau des disponibilités et des logiciels ; dim. 04/10, Salomé : équipe Canva et convention de nommage.
+3. Mer. 07/10, point d'équipe : chacun apporte sa fiche « problème alternatif » d'une page.
+4. Jeu. 08/10 : Lola le guide d'entretien (relu par Iliess), Louise le questionnaire.
+5. Dès que le brief est publié : me l'envoyer pour recaler le planning.
 
 ## Prochain jalon
 Jeudi 16/10/2026 — J1 : problème validé collectivement (repli 23/10). Objectif final avant Noël : dossier écrit gelé le 12/12, oral prêt le 18/12.
