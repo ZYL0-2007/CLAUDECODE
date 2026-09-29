@@ -1,6 +1,6 @@
 # BRIEF — CE QUE L'ON SAIT
 
-Dernière mise à jour : 29/09/2026 (2)
+Dernière mise à jour : 29/09/2026 (3)
 Source : réponses de l'équipe (Iliess, 29/09/2026). Le brief officiel de l'ISG n'a pas encore été envoyé.
 
 ## Cadre
@@ -35,18 +35,17 @@ Source : réponses de l'équipe (Iliess, 29/09/2026). Le brief officiel de l'ISG
 | Autres livrables | — | Business plan chiffré ? vidéo ? prototype ? |
 | Contraintes graphiques | Aucune imposée (pas de charte ISG, pas de logiciel imposé) | — |
 
-## Équipe
+## Équipe (rôles validés le 29/09 — détail dans 01_PLANNING/roles.md)
 
-| Membre | Compétences déclarées |
-|---|---|
-| Iliess | Polyvalent (stratégie, rédaction, organisation) |
-| Salomé | Mise en page, direction artistique intérieure du magazine |
-| Pauline | Design, recherche d'idées |
-| Lola | Réseaux sociaux, communication |
-| Louise | Réseaux sociaux |
+| Membre | Rôle | Expertises |
+|---|---|---|
+| Iliess | Pilotage, positionnement, modèle économique | Horlogerie et joaillerie · Parfumerie et cosmétique |
+| Salomé | Mise en page du dossier et de l'oral, offre et parcours client, inspirations magazine | Maroquinerie, accessoires et souliers · Design mobilier et décoration d'intérieur |
+| Pauline | Ateliers, concept, cible et personas, direction visuelle | Tourisme et hôtellerie |
+| Lola | Terrain (entretiens), problème et preuves, plateforme de marque, storyline | Gastronomie, œnologie et arts de la table · Automobile et mobilités |
+| Louise | Données, questionnaire, benchmark, marché, contrôle des sources | Mode et haute couture · Immobilier et architecture |
 
-Logiciels maîtrisés : [À CONFIRMER]
-Disponibilités de Salomé, Pauline, Lola et Louise : [À CONFIRMER] (seul l'agenda d'Iliess a été consulté)
+Logiciels maîtrisés et disponibilités de chacun : [À CONFIRMER] (tableau de Louise, 03/10).
 
 ## Outils
 
