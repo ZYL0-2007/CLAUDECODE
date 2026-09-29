@@ -3,7 +3,7 @@
 Dernière mise à jour : 29/09/2026
 Statut : PROPOSITION — à valider collectivement.
 
-Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme et une place dans la chaîne de relecture (Iliess → Louise → Salomé → Pauline → Lola → Iliess). Lola et Louise ne se recoupent plus : Lola = les mots et les personnes (voix de marque, interviews, rédaction en chef) ; Louise = les plateformes et les données (Instagram, site, veille, chiffres). Tout le monde écrit pour le magazine dans son domaine. Les décisions stratégiques (problème, concept, cible, nom, identité, format) restent collectives.
+Chaque rôle part d'une compétence déclarée ; chacun a un domaine, un binôme et une place dans la chaîne de relecture (Iliess → Louise → Salomé → Pauline → Lola → Iliess). Lola = les mots et les personnes (voix de marque, entretiens, rédaction) ; Louise = les plateformes et les données (veille, chiffres, digital). Jusqu'à janvier, tout le monde écrit une partie du dossier. Salomé et Louise ont une charge plus légère avant janvier : leur pic est après l'oral (magazine de 100 pages, digital). Les décisions stratégiques (problème, concept, cible, nom, identité, format) restent collectives. Les échéances détaillées sont dans le rétroplanning (filtrer la colonne RESPONSABLE).
 
 | MEMBRE | RÔLE | RESPONSABILITÉ PRINCIPALE | BINÔME |
 |---|---|---|---|
@@ -29,24 +29,26 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 
 **Tâches**
 
-- Animer la réunion de lancement du 30/09 et faire valider les rôles, les binômes et les rituels
-- Envoyer aujourd'hui (29/09) l'email de questions au prof, puis relancer au coaching du 13/10
-- Partager le dossier Drive (déjà créé) avec les 4 autres et vérifier la synchro NAS
-- Rédiger avec Lola le guide d'entretien et mener les entretiens exploratoires avant le J1 (16/10)
-- Produire avec Louise la fiche « données sourcées » (marché, cible) pour le benchmark
-- Rédiger la note positionnement / cible / modèle économique V0 (02/11) avant le verrou J2 (05/11)
-- Tenir le journal de décisions après chaque séance projet
-- Assembler le support d'oral V1 (05/12) avec Salomé, puis piloter la check-list qualité et le pack oral (18/12)
+- Animer la réunion de lancement du 30/09
+- Envoyer aujourd'hui (29/09) l'email de questions au prof, relancer au coaching du 13/10
+- Partager le dossier Drive avec les 4 autres (02/10)
+- Préparer avec Lola le guide d'entretien (08/10) et mener les entretiens avant le J1 (16/10)
+- Produire avec Louise le benchmark et la fiche données de marché (23/10)
+- Rédiger la note positionnement / cible / modèle économique V0 (02/11)
+- Construire le plan détaillé du dossier et répartir les parties (06/11)
+- Rédiger avec Louise les parties Problème, Marché, Benchmark (20/11) et le modèle économique V1 (26/11)
+- Coordonner l'assemblage du dossier V1 (29/11) et le gel (12/12)
+- Tenir le journal de décisions après chaque séance
 
 **Livrables**
 
-- Fichier Pilotage (planning, journal de décisions, registre des risques)
-- Mail de questions au prof
-- Synthèse du problème (avec Lola)
-- Fiche positionnement et cible
-- Dossier intermédiaire consolidé, si demandé
-- Check-list qualité et pack oral final
-- H2 : business model sourcé, dossier final, article de fond du magazine
+- Email au prof
+- Synthèse de recherche (avec Lola)
+- Note positionnement / cible / modèle V0
+- Plan détaillé du dossier
+- Parties Problème, Marché, Benchmark, Modèle économique (avec Louise)
+- Dossier final assemblé
+- Journal de décisions
 
 **Questions à résoudre**
 
@@ -61,30 +63,11 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 - Chaque décision stratégique validée en jalon collectif et consignée le jour même
 - Aucun chiffre sans source dans le dossier
 - Owner principal de 2 phases au maximum (Cadrage, Problème + recherche/Dossier)
-- Supports de l'oral gelés le 12/12 et finalisés le 18/12
+- Dossier et oral gelés le 12/12 et finalisés le 18/12
 
 **Échéances**
 
-- 29/09 : Email envoyé, copie rangée dans 00_BRIEF
-- 30/09 : Compte rendu et premières entrées du journal de décisions
-- 02/10 : Drive et Canva partagés
-- 08/10 : Guide d'entretien et questionnaire prêts à diffuser
-- 13/10 : Compte rendu du coaching, questions répondues
-- 16/10 : Synthèse de recherche de 2 pages, décision consignée
-- 16/10 : Rétroplanning V2
-- 23/10 : Matrice concurrentielle et carte de positionnement
-- 02/11 : Note positionnement / cible / modèle V0
-- 13/11 : Plateforme de marque V1, 2 ou 3 moodboards
-- 20/11 : Chemin de fer V1 (tableau et vignettes)
-- 24/11 : Compte rendu, liste des corrections
-- 27/11 : Storyline et plan des slides
-- 01/12 : PDF de la maquette de démonstration
-- 05/12 : Support d'oral V1
-- 10/12 : Dossier V0
-- 12/12 : Support final en PDF v1.0
-- 18/12 : Pack d'oral (PDF, pages de démonstration imprimées, fiche de questions-réponses)
-- 15/01 : Horizon 2 daté, liste des corrections
-- Jalons collectifs : J1 16/10 · J2 05/11 · J3 16/11 · J4 26/11 · J5 05/12 · J6 12/12 · J7 18/12
+- Voir le rétroplanning (filtrer RESPONSABLE). Jalons : J1 16/10 · J2 05/11 · J3 16/11 · J4 29/11 · J5 06/12 · J6 12/12 · J7 18/12
 
 **Dépendances**
 
@@ -114,24 +97,22 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 
 **Tâches**
 
-- Créer l'équipe Canva et la convention de nommage
-- Structurer avec Lola les rubriques de la ligne éditoriale
-- Préparer 2 ou 3 options de format, papier et reliure pour la décision collective du J4 (26/11)
-- Construire le chemin de fer v1 des 100 pages
-- Créer la grille et les styles typographiques
-- Maquetter la couverture, le sommaire et 2 doubles pages témoins
-- Mettre en page les slides v1
-- H2 : relever prix et délais dans les configurateurs des imprimeurs [À SOURCER], mettre en page les 100 pages, suivre le BAT
+- Ouvrir l'équipe Canva et fixer la convention de nommage (04/10)
+- Consigner les consignes du coaching scénographie (09/10)
+- Créer le gabarit de mise en page du dossier (06/11)
+- Mettre en page le dossier V2 avec Pauline (06/12)
+- Préparer le support oral si les slides sont autorisées (08/12) et exporter la version finale (12/12)
+- Préparer l'après-janvier : benchmark de magazines (25/10), note d'intention du magazine (18/12, optionnel)
+- Après l'oral : chemin de fer, gabarits, mise en page des 100 pages, fabrication (format, papier, devis, BAT)
 
 **Livrables**
 
-- Équipe Canva et gabarits partagés
-- Note d'options format, papier et reliure
-- Chemin de fer v1, puis v2 en H2
-- Gabarits : grille et styles typographiques
-- PDF des doubles pages témoins
-- Slides de l'oral mis en page
-- H2 : maquette des 100 pages, devis, BAT
+- Équipe Canva et convention de nommage
+- Gabarit du dossier
+- Dossier V2 mis en page
+- Support oral
+- Benchmark magazines
+- Après janvier : chemin de fer, gabarits, magazine de 100 pages
 
 **Questions à résoudre**
 
@@ -142,37 +123,25 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 
 **Critères de réussite**
 
-- Chemin de fer v1 présenté au coaching du 24/11
+- Gabarit du dossier prêt le 06/11 et utilisable par tous
 - Gabarits utilisables par tous sans aide
-- Doubles pages témoins conformes à la charte
+- Dossier V2 mis en page le 06/12
 - Pack oral exporté et sauvegardé le 18/12
 
 **Échéances**
 
-- 09/10 : Note d'une page dans le Drive
-- 23/10 : Planche benchmark magazine
-- 13/11 : Plateforme de marque V1, 2 ou 3 moodboards
-- 13/11 : Ligne éditoriale d'une page, liste des rubriques
-- 20/11 : Chemin de fer V1 (tableau et vignettes)
-- 24/11 : Compte rendu, liste des corrections
-- 26/11 : Charte V1, kit Canva, fiche de spécifications du magazine
-- 28/11 : Gabarits du magazine et mode d'emploi d'une page
-- 01/12 : PDF de la maquette de démonstration
-- 05/12 : Support d'oral V1
-- 11/12 : Tableau comparatif des imprimeurs
-- 12/12 : Support final en PDF v1.0
-- Jalons collectifs : J1 16/10 · J2 05/11 · J3 16/11 · J4 26/11 · J5 05/12 · J6 12/12 · J7 18/12
+- Voir le rétroplanning (filtrer RESPONSABLE). Jalons : J1 16/10 · J2 05/11 · J3 16/11 · J4 29/11 · J5 06/12 · J6 12/12 · J7 18/12
 
 **Dépendances**
 
-- Charte v1 de Pauline (26/11)
-- Ligne éditoriale (13/11)
+- Parties rédigées par chaque auteur (20/11)
+- Plan détaillé du dossier (06/11)
 - Textes de chaque membre
-- Images des shootings (H2)
+- Visuels de Pauline (06/12)
 
 **Binôme** : Avec Pauline : passage de la charte aux gabarits, DA des shootings, renfort de mise en page en H2. Avec Lola : ligne éditoriale et chemin de fer. Avec Louise : relecture de la cohérence entre print et digital. Dans la chaîne de relecture, elle relit Pauline et Louise la relit.
 
-**Risque de charge** : Faible à moyen en H1, TRÈS ÉLEVÉ en H2, où la mise en page des 100 pages se concentre en fin de projet. Parade : gabarits prêts dès décembre, textes gelés à J-28, Pauline en renfort, aucune modification de fond après le gel.
+**Risque de charge** : Faible avant janvier (gabarit et mise en page du dossier, support oral), TRÈS ÉLEVÉ après l'oral (100 pages). Parade : préparer le benchmark magazine et la note d'intention avant Noël, Pauline en renfort de mise en page après janvier.
 
 
 ## Pauline — Directrice de création et de l'idéation
@@ -190,23 +159,23 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 
 **Tâches**
 
-- Compléter la grille de benchmark sur le volet créatif
-- Collecter en asynchrone les pistes de concept de chacun
-- Animer l'atelier concept du 30/10 et rédiger 2 fiches concept
-- Produire 2 ou 3 territoires visuels (moodboards)
-- Présenter les territoires et intégrer le choix de l'équipe
-- Livrer le logo, la palette, les typographies et le brand kit Canva
-- Fournir à Louise les templates visuels d'Instagram et du site
-- H2 : charte v2, dossiers de production et direction artistique des shootings
+- Animer l'atelier de challenge du problème (09/10) et l'atelier concept (30/10)
+- Rédiger les 2 fiches concept et les tester avec Lola (03/11)
+- Analyser avec Lola les codes des maisons de luxe (25/10)
+- Produire la longue liste de noms (10/11) et un moodboard de direction visuelle pour le dossier
+- Rédiger avec Lola les parties Concept, Offre et parcours client, 9 expertises (20/11)
+- Créer les visuels et schémas du dossier (06/12)
+- Après l'oral : identité visuelle complète, charte, direction artistique des shootings
 
 **Livrables**
 
-- Benchmark créatif (planche Canva)
-- 2 ou 3 fiches concept
-- Moodboards et territoires visuels
-- Charte v1 et brand kit Canva
-- Templates visuels Instagram et site
-- H2 : charte v2, dossiers de production des shootings
+- 2 fiches concept
+- Planche benchmark créatif (avec Lola)
+- Longue liste de noms
+- Moodboard de direction visuelle
+- Parties Concept, Offre, 9 expertises (avec Lola)
+- Visuels et schémas du dossier
+- Après janvier : charte graphique
 
 **Questions à résoudre**
 
@@ -218,23 +187,12 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 **Critères de réussite**
 
 - Au moins 2 pistes de concept documentées avant le 05/11
-- Charte v1 validée par l'équipe le 26/11 et utilisable par tous
-- Identité appliquée sans écart sur les slides, les doubles pages et les maquettes digitales
+- Parties Concept et Offre rédigées le 20/11
+- Visuels du dossier cohérents avec le moodboard retenu
 
 **Échéances**
 
-- 09/10 : Grille de comparaison remplie, 2 pistes retenues
-- 13/10 : Compte rendu du coaching, questions répondues
-- 23/10 : Planche benchmark magazine
-- 30/10 : 2 fiches concept d'une page, matrice de différenciation
-- 03/11 : Retours des tests consignés
-- 10/11 : Longue liste et short list de 3 à 5 noms vérifiés
-- 13/11 : Plateforme de marque V1, 2 ou 3 moodboards
-- 26/11 : Charte V1, kit Canva, fiche de spécifications du magazine
-- 01/12 : PDF de la maquette de démonstration
-- 04/12 : Maquettes digitales (PDF ou captures)
-- 11/12 : Checklist qualité remplie
-- Jalons collectifs : J1 16/10 · J2 05/11 · J3 16/11 · J4 26/11 · J5 05/12 · J6 12/12 · J7 18/12
+- Voir le rétroplanning (filtrer RESPONSABLE). Jalons : J1 16/10 · J2 05/11 · J3 16/11 · J4 29/11 · J5 06/12 · J6 12/12 · J7 18/12
 
 **Dépendances**
 
@@ -263,24 +221,24 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 
 **Tâches**
 
-- Rédiger le guide d'entretien
-- Planifier les entretiens
-- Mener les entretiens exploratoires avec Iliess avant le J1 (16/10)
-- Rédiger avec Iliess la synthèse du problème
-- Produire la shortlist de noms, le manifeste et le ton de voix
-- Rédiger la ligne éditoriale et le gabarit d'article
-- Repérer et contacter des professionnels au Rendez-vous du luxe du 19/11
-- Écrire la storyline de l'oral et répartir les prises de parole
-- Rédiger les textes des slides
+- Préparer avec Iliess le guide d'entretien (08/10) et mener les entretiens avant le J1 (16/10)
+- Diffuser le questionnaire avec Louise (10/10)
+- Tester les variantes de concept avec Pauline (03/11)
+- Rédiger la plateforme de marque : mission, valeurs, ton, manifeste court (13/11)
+- Tester le concept auprès de pros au Rendez-vous du luxe (19/11)
+- Rédiger avec Pauline les parties Concept, Offre et parcours client (20/11)
+- Relire tout le dossier sur le plan éditorial
+- Écrire la storyline de l'oral et répartir la parole (04/12)
+- Après l'oral : rédaction en chef du magazine, interviews de pros, plan de communication et de lancement
 
 **Livrables**
 
 - Guide d'entretien et comptes rendus
-- Shortlist de noms, manifeste et ton de voix
-- Ligne éditoriale et gabarit d'article
-- Liste de contacts de professionnels
-- Storyline de l'oral et textes des slides
-- H2 : interviews publiées, plan de communication et de lancement
+- Plateforme de marque V1
+- Retours de pros (19/11)
+- Parties Concept, Offre (avec Pauline)
+- Storyline de l'oral
+- Après janvier : ligne éditoriale, interviews, plan de lancement
 
 **Questions à résoudre**
 
@@ -298,26 +256,14 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 
 **Échéances**
 
-- 08/10 : Guide d'entretien et questionnaire prêts à diffuser
-- 10/10 : Questionnaire diffusé, suivi des réponses
-- 16/10 : Synthèse de recherche de 2 pages, décision consignée
-- 25/10 : Planche benchmark digital
-- 03/11 : Retours des tests consignés
-- 13/11 : Plateforme de marque V1, 2 ou 3 moodboards
-- 19/11 : Liste de contacts pros, demandes d'interview envoyées
-- 20/11 : Note sur l'écosystème digital, arborescence
-- 27/11 : Storyline et plan des slides
-- 01/12 : PDF de la maquette de démonstration
-- 04/12 : Maquettes digitales (PDF ou captures)
-- 10/12 : Dossier V0
-- Jalons collectifs : J1 16/10 · J2 05/11 · J3 16/11 · J4 26/11 · J5 05/12 · J6 12/12 · J7 18/12
+- Voir le rétroplanning (filtrer RESPONSABLE). Jalons : J1 16/10 · J2 05/11 · J3 16/11 · J4 29/11 · J5 06/12 · J6 12/12 · J7 18/12
 
 **Dépendances**
 
 - Hypothèses du problème (Iliess)
 - Concept validé (05/11)
-- Charte de Pauline pour les slides
-- Chemin de fer de Salomé
+- Dossier V1 (29/11)
+- Retours du coaching du 24/11
 
 **Binôme** : Avec Iliess : terrain, synthèse, storyline, remplacement sur le pilotage. Avec Salomé : ligne éditoriale, chemin de fer, slides (Lola écrit, Salomé met en page). Différence avec Louise : Lola s'occupe des mots, des relations et du discours ; Louise des plateformes et des données. Dans la chaîne de relecture, elle relit Iliess et Pauline la relit.
 
@@ -340,24 +286,24 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 
 **Tâches**
 
-- Construire le questionnaire en ligne et le diffuser
-- Créer la grille de benchmark
-- Produire avec Iliess la fiche données sourcées
-- Consolider le benchmark v1 et la carte de positionnement
-- Vérifier la disponibilité des noms de la shortlist
-- Rédiger la stratégie Instagram v1 (rôle, piliers, maquette de grille)
-- Proposer l'arborescence du site
-- Maquetter la page d'accueil du site et un feed de 9 posts
+- Recueillir les disponibilités et logiciels des 5 (03/10)
+- Construire le questionnaire (08/10), le diffuser (10/10) et analyser les réponses
+- Cartographier les concurrents et constituer la fiche données de marché avec Iliess (23/10)
+- Vérifier la disponibilité des noms : INPI, domaine, Instagram (10/11)
+- Rédiger avec Iliess les parties Problème, Marché, Benchmark (20/11) et chiffrer le modèle économique (26/11)
+- Contrôler les sources et chiffres du dossier (10/12)
+- Prendre les notes des retours du jury en janvier
+- Après l'oral : Instagram, site, app éventuelle, « marque perso »
 
 **Livrables**
 
+- Tableau dispos et logiciels
 - Questionnaire et résultats
-- Grille et benchmark v1 (Sheets + planche Canva)
-- Fiche données sourcées (avec Iliess)
+- Matrice concurrentielle et fiche données de marché
 - Tableau de disponibilité des noms
-- Stratégie Instagram v1 et maquette du feed
-- Arborescence et maquette de la page d'accueil du site
-- H2 : site v1, Instagram, KPIs, décision sur l'app
+- Parties Problème, Marché, Benchmark (avec Iliess)
+- Checklist qualité des sources
+- Après janvier : dispositif digital
 
 **Questions à résoudre**
 
@@ -371,30 +317,19 @@ Chaque rôle part d'une compétence déclarée. Chacun a un domaine, un binôme 
 - Benchmark v1 livré le 25/10 avec ses sources
 - Chaque chiffre de la fiche données a une source et une date
 - Tableau de disponibilité des noms prêt avant le J3 (16/11)
-- Maquettes digitales conformes à la charte pour le 04/12
+- Chaque chiffre du dossier vérifié le 10/12
 
 **Échéances**
 
-- 03/10 : Tableau « Dispos & compétences » dans le Drive
-- 08/10 : Guide d'entretien et questionnaire prêts à diffuser
-- 10/10 : Questionnaire diffusé, suivi des réponses
-- 23/10 : Matrice concurrentielle et carte de positionnement
-- 25/10 : Planche benchmark digital
-- 10/11 : Longue liste et short list de 3 à 5 noms vérifiés
-- 20/11 : Note sur l'écosystème digital, arborescence
-- 04/12 : Maquettes digitales (PDF ou captures)
-- 11/12 : Checklist qualité remplie
-- 11/12 : Tableau comparatif des imprimeurs
-- 04/01 : Retours du jury consignés
-- Jalons collectifs : J1 16/10 · J2 05/11 · J3 16/11 · J4 26/11 · J5 05/12 · J6 12/12 · J7 18/12
+- Voir le rétroplanning (filtrer RESPONSABLE). Jalons : J1 16/10 · J2 05/11 · J3 16/11 · J4 29/11 · J5 06/12 · J6 12/12 · J7 18/12
 
 **Dépendances**
 
 - Hypothèses du problème (Iliess) pour construire le questionnaire
 - Shortlist de noms (Pauline + Lola, 10/11)
-- Charte de Pauline pour les maquettes
+- Plan détaillé du dossier (06/11)
 - Réponses du prof sur le périmètre digital
 
 **Binôme** : Avec Pauline : volet créatif du benchmark, templates visuels. Avec Iliess : données sourcées et chiffres. Avec Salomé : cohérence entre print et digital. Dans la chaîne de relecture, elle relit Salomé et Iliess la relit.
 
-**Risque de charge** : MOYEN, avec deux pics : S41-S43 (questionnaire et benchmark, la semaine du 19/10 étant chargée) et S47-S49 (stratégie Instagram et maquettes). Parade : l'app reste hors périmètre sauf décision collective en H2, Pauline fournit les templates visuels.
+**Risque de charge** : Moyen avant janvier (questionnaire, benchmark, données, parties du dossier), élevé après l'oral (digital). Parade : l'app reste hors périmètre sauf décision collective.

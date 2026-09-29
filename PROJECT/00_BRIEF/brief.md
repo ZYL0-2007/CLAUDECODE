@@ -1,6 +1,6 @@
 # BRIEF — CE QUE L'ON SAIT
 
-Dernière mise à jour : 29/09/2026
+Dernière mise à jour : 29/09/2026 (2)
 Source : réponses de l'équipe (Iliess, 29/09/2026). Le brief officiel de l'ISG n'a pas encore été envoyé.
 
 ## Cadre
@@ -18,8 +18,9 @@ Source : réponses de l'équipe (Iliess, 29/09/2026). Le brief officiel de l'ISG
 
 | Jalon | Date | Statut |
 |---|---|---|
-| Oral de présentation | Début janvier 2027 (jour exact inconnu) | [À CONFIRMER] |
-| Contenu attendu de l'oral de janvier | Inconnu | [À CONFIRMER] |
+| Oral de présentation | Début janvier 2027 (jour exact inconnu ; partiels du 04 au 13/01) | [À CONFIRMER] |
+| Attendus de janvier | Explication orale du concept + dossier écrit, rien d'autre | FAIT (Iliess, 29/09) |
+| Nom / identité visuelle attendus en janvier ? | Inconnu | [À CONFIRMER] |
 | Rendu final (dossier + magazine + digital) | Inconnu | [À CONFIRMER] |
 | Soutenance finale | Inconnue | [À CONFIRMER] |
 
@@ -29,8 +30,8 @@ Source : réponses de l'équipe (Iliess, 29/09/2026). Le brief officiel de l'ISG
 |---|---|---|
 | Magazine imprimé | 100 pages, format et papier libres, aucun imprimeur imposé | « Budget aucun » veut-il dire « pas de plafond » ou « 0 € » ? Nombre d'exemplaires ? Qui paie l'impression ? |
 | Support digital | Site + Instagram + « marque perso » + application optionnelle | Sens de « marque perso » (branding personnel des membres ?) ; site fonctionnel ou maquette ? |
-| Dossier écrit | — | Nombre de pages, format, règles de mise en page |
-| Présentation orale | — | Durée de l'exposé, durée des questions |
+| Dossier écrit | À rendre en janvier avec l'oral du concept | Date exacte, nombre de pages, format, structure attendue |
+| Présentation orale (janvier) | Explication du concept | Durée de l'exposé et des questions, slides autorisées ? |
 | Autres livrables | — | Business plan chiffré ? vidéo ? prototype ? |
 | Contraintes graphiques | Aucune imposée (pas de charte ISG, pas de logiciel imposé) | — |
 

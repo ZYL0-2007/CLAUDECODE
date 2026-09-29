@@ -4,7 +4,7 @@
 29/09/2026
 
 ## État global
-Cadrage en cours. Brief officiel, date de rendu et date exacte de l'oral inconnus. Aucun livrable produit. Rôles = proposition à valider demain (30/09).
+Cadrage en cours. Janvier = explication orale du concept + dossier écrit (FAIT, 29/09). Date exacte, format du dossier et durée de l'oral inconnus. Rôles = proposition à valider le 30/09.
 
 ## Tâches par membre
 | MEMBRE | TÂCHE | STATUT | DEADLINE | RETARD |
@@ -35,4 +35,4 @@ Cadrage en cours. Brief officiel, date de rendu et date exacte de l'oral inconnu
 5. Pour le mer. 07/10, ÉQUIPE : chacun rédige une fiche « problème alternatif » sourcée pour challenger l'hypothèse des moments de vie à l'atelier du 09/10 ; Iliess + Lola préparent le guide d'entretien et Louise le questionnaire pour le 08/10.
 
 ## Prochain jalon
-Jeudi 16/10/2026 — J1 : problème validé collectivement (repli 23/10), après l'atelier de challenge du 09/10 et le coaching du 13/10.
+Jeudi 16/10/2026 — J1 : problème validé collectivement (repli 23/10). Objectif final avant Noël : dossier écrit gelé le 12/12, oral prêt le 18/12.
