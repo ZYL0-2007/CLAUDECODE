@@ -10,7 +10,7 @@ Cadrage bien avancé : rôles définis et validés, Drive partagé avec les 4, r
 | MEMBRE | TÂCHE | STATUT | DEADLINE | RETARD |
 |---|---|---|---|---|
 | Iliess | Envoyer au prof l'email de questions de cadrage | FAIT (29/09) — la prof publie le brief « au plus vite » | 29/09 | — |
-| Iliess | Animer la réunion de lancement : règle de décision, rituels, confirmation des référents d'expertises, lancement des fiches problème | À FAIRE | 30/09 14h | — |
+| Iliess | Réunion de lancement : règle de décision et point du mercredi validés le 29/09 ; reste à confirmer les référents d'expertises | À FAIRE | 30/09 14h | — |
 | Iliess | Partager le dossier Drive avec les 4 autres | FAIT (29/09) | 02/10 | — |
 | Iliess | Transmettre à Pauline la revue de sa proposition | FAIT (29/09) | 29/09 | — |
 | Salomé | Ouvrir l'équipe Canva et fixer la convention de nommage | À FAIRE | 04/10 | — |
@@ -31,7 +31,7 @@ Cadrage bien avancé : rôles définis et validés, Drive partagé avec les 4, r
 
 ## Priorités immédiates
 1. Iliess : dès que le brief est publié, me l'envoyer pour recaler le planning ; sinon relancer la prof au coaching du 13/10 avec les questions restantes.
-2. Mer. 30/09 de 14h à 15h30, ÉQUIPE : fixer la règle de décision et les rituels (point hebdo, heures du lundi), confirmer les référents d'expertises, lancer les fiches problème.
+2. Mer. 07/10, point d'équipe : chacun apporte sa fiche « problème alternatif » ; confirmer les référents d'expertises (liste officielle ISG).
 3. Chacun : coller son prompt IA (Drive > 01_PLANNING > Prompts IA) et démarrer ses premières tâches.
 4. Sam. 03/10, Louise : tableau des disponibilités et des logiciels ; dim. 04/10, Salomé : équipe Canva et convention de nommage.
 5. Pour le mer. 07/10, ÉQUIPE : 1 fiche « problème alternatif » chacun ; Lola le guide d'entretien et Louise le questionnaire pour le 08/10.

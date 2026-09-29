@@ -109,14 +109,9 @@ D = date du rendu final [À CONFIRMER]. Dès que D est connue, chaque « J-xx »
 | Soutenance -1 j [À CONFIRMER] | Soutenance | 11 Répétition | SOUTENANCE FINALE [date À CONFIRMER] | Faire un dernier filage et vérifier le matériel (PDF, exemplaires, ordinateur, adaptateurs) | ÉQUIPE | Kit de soutenance prêt | Rendu D | À CONFIRMER |
 
 ## Rituels d'équipe
-- Point hebdo le lundi de 13h05 à 13h45, pendant la pause déjeuner sur le campus, avec les 5 (40 min). Au programme : avancement par rapport au rétroplanning, blocages, 3 priorités de la semaine, mise à jour du Sheet. Animation : Iliess, suppléante Lola. Créneau [À CONFIRMER] selon les disponibilités des 4 autres.
-- Séances « Projet magazine – autonomie » obligatoires (30/09, 09/10, 30/10, 03/11, 05/11, 13/11, 16/11, 26/11, 01/12) : réservées aux ateliers de production et aux votes de jalon. L'ordre du jour est envoyé la veille et les décisions sont consignées le jour même dans le journal.
-- Revue de jalon pour chaque décision stratégique (problème, concept, cible, nom, identité, format) : 30 à 45 min, en présentiel, avec les 5. Les options sont préparées à l'avance. On cherche le consensus, sinon on vote à la majorité de 3 sur 5 (règle à valider le 30/09). Le résultat est inscrit dans le journal.
-- Coachings « Gestion de projet » avec le prof (13/10, 24/11, 15/12, puis 15/02, 23/03 et 05/04) : venir avec un livrable à montrer et 3 questions, puis débriefer 10 min juste après.
-- Synchro de binôme : 30 min par semaine, à un créneau choisi par le binôme (présentiel ou visio). Elle se termine par une ligne de statut dans le Sheet.
-- Fil de discussion de l'équipe : réponse sous 24 h en semaine. Aucune décision stratégique dans le fil, uniquement en séance.
-- Session de production le samedi de 14h à 17h, en option, pendant les semaines de pic (S48 à S50, puis dans l'horizon 2) : travail en binômes, en présentiel ou en visio.
-- Sauvegarde tous les vendredis (Iliess) : export PDF des livrables clés et synchronisation du Drive vers le NAS.
+- Point d'équipe chaque mercredi (bilan, avancées, galères, heures de la semaine)
+- Décisions stratégiques en séance : consensus, sinon vote à 3 voix sur 5 ; un sujet voté ne se rouvre qu'avec une nouvelle preuve
+- Relecture croisée selon la chaîne définie dans la répartition des rôles
 
 ## Risques
 | RISQUE | IMPACT | PARADE |

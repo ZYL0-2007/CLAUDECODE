@@ -7,7 +7,7 @@ Périmètre : ce qui est attendu en janvier, c'est-à-dire l'explication orale d
 ## Principe d'équité
 
 1. **Même temps collectif pour tous** : séances « Projet magazine – autonomie », ateliers, votes, répétitions (environ 25 h chacun d'ici le 18/12, estimation).
-2. **Même charge individuelle** : environ **25 h par personne** d'ici le 18/12. Ce sont des estimations, à corriger au premier point hebdo.
+2. **Même charge individuelle** : environ **25 h par personne** d'ici le 18/12. Ce sont des estimations, à corriger au premier point du mercredi.
 3. **Tout le monde écrit** : chacun est auteur d'au moins 2 parties du dossier.
 4. **Tout le monde est référent d'expertise** : 1 ou 2 des 9 expertises chacun.
 5. **Tout le monde parle à l'oral** : temps de parole égal.
@@ -69,9 +69,9 @@ Totaux : Iliess 25 h · Salomé 28 h · Pauline 26 h · Lola 25 h · Louise 25 h
 
 ## Règles pour garder l'équilibre
 
-1. Chaque lundi, chacun met à jour ses heures réelles dans le fichier Avancement (2 minutes).
-2. Si l'écart entre la personne la plus chargée et la moins chargée dépasse **5 h**, on rééquilibre au point hebdo : la tâche suivante va à la personne la moins chargée.
-3. Une tâche en retard de plus de 3 jours est signalée au point hebdo, sans reproche : on cherche une solution, pas un coupable.
+1. Chaque mercredi, au point d'équipe, chacun donne ses heures réelles de la semaine (reportées dans l'Avancement).
+2. Si l'écart entre la personne la plus chargée et la moins chargée dépasse **5 h**, on rééquilibre au point du mercredi : la tâche suivante va à la personne la moins chargée.
+3. Une tâche en retard de plus de 3 jours est signalée au point du mercredi, sans reproche : on cherche une solution, pas un coupable.
 4. **Iliess ne rattrape pas le travail des autres en silence.** Il signale le retard, l'équipe réattribue.
 
 ## Après janvier (à rééquilibrer au retour de l'oral)

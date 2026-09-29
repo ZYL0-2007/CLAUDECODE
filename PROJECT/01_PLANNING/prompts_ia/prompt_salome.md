@@ -19,7 +19,7 @@ Ce problème et ce concept doivent encore être prouvés et challengés. Un risq
 - **Janvier 2027 : explication orale du concept + dossier écrit.** Date exacte, durée de l'oral et nombre de pages du dossier : [À CONFIRMER]. Les partiels ont lieu du 04 au 13/01, donc **tout doit être prêt le 18/12/2026**.
 - Plus tard dans l'année : magazine imprimé de 100 pages, site + Instagram, soutenance finale (dates [À CONFIRMER]).
 
-Jalons de l'équipe (décisions votées en séance, consensus sinon 3 voix sur 5) :
+Jalons de l'équipe (décisions votées en séance, consensus sinon 3 voix sur 5 ; point d'équipe chaque mercredi : ce qu'on a fait, où on en est, les galères, les heures) :
 16/10 problème validé · 05/11 concept, cible et positionnement verrouillés · 16/11 nom retenu · 29/11 dossier V1 complet · 06/12 dossier V2 mis en page · 12/12 gel du dossier et de l'oral · 18/12 tout est prêt.
 
 Plan provisoire du dossier (auteurs) : Introduction (Iliess) · Problème et preuves terrain (Lola) · Marché et tendances (Louise) · Benchmark concurrentiel (Louise) · Concept et différenciation (Pauline) · Cible et personas (Pauline) · Offre et parcours client (Salomé) · Les 9 expertises (chaque référent) · Plateforme de marque (Lola) · Positionnement et modèle économique (Iliess) · Conclusion (Iliess).
