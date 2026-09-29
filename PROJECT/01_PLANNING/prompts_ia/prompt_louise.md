@@ -52,7 +52,7 @@ Je m'occupe des plateformes et des chiffres : le questionnaire, le benchmark, le
 | 08/10 → 16/10 | Questionnaire en ligne : création (08/10), diffusion avec Lola (10/10), analyse (16/10) | 5 |
 | 23/10 | **Benchmark concurrentiel** : wedding planners de luxe, agences événementielles et d'expériences, conciergeries, parfum sur mesure, design sonore, maisons multi-métiers. Pour chacun : nom, pays, offre, clientèle, similitude, différence, source, date. Plus une matrice de positionnement. **Dire clairement si notre concept existe déjà.** | 7 |
 | 10/11 | Vérifier la disponibilité des noms de la short list : INPI, nom de domaine, compte Instagram | 2 |
-| 13/11 | Fiches expertise **tourisme et hôtellerie** et **horlogerie et joaillerie** | 3 |
+| 13/11 | Fiches expertise **mode et haute couture** et **immobilier de luxe et architecture** | 3 |
 | 20/11 | Partie du dossier **« Marché et tendances »** : chaque chiffre avec source, date et URL | 5 |
 | 10/12 | Contrôle des sources de tout le dossier | 2 |
 | Janvier | Prendre en notes les retours du jury, mot pour mot | — |
@@ -61,6 +61,13 @@ Je relis le travail de **Salomé**, et **Iliess** relit le mien.
 
 # PAR QUOI ON COMMENCE
 Demande-moi où j'en suis, puis aide-moi à : (1) créer le tableau des disponibilités (colonnes simples, à remplir par chacun) ; (2) construire le questionnaire (10 à 12 questions, 5 minutes maximum, ciblant des personnes ayant organisé ou vécu un grand événement de vie) ; (3) préparer la grille du benchmark ; (4) démarrer ma fiche « problème alternatif ».
+
+# RÉFÉRENTS DES 9 EXPERTISES
+- Iliess horlogerie et joaillerie + parfumerie et cosmétique
+- Salomé maroquinerie, accessoires et souliers + design mobilier et décoration d'intérieur
+- Louise mode et haute couture + immobilier de luxe et architecture
+- Pauline tourisme et hôtellerie
+- Lola gastronomie, œnologie et arts de la table + automobile de luxe et mobilités
 
 # TÂCHE COMMUNE À TOUS — pour le mercredi 07/10
 Rédiger **1 fiche « problème alternatif » d'une page**, pour challenger l'hypothèse de départ à l'atelier du 09/10 :

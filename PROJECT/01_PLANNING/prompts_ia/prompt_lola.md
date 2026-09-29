@@ -53,7 +53,7 @@ Je m'occupe des mots et des personnes : les entretiens qui prouvent le problème
 | 16/10 | 5 à 8 entretiens exploratoires (clients potentiels, prestataires, professionnels du luxe), avec un binôme différent à chaque fois, + comptes rendus | 8 |
 | 03/11 | Tester les 2 variantes de concept avec Pauline | — |
 | 13/11 | **Plateforme de marque** : mission, valeurs, ton, manifeste court | 5 |
-| 13/11 | Fiches expertise **parfumerie et cosmétique** et **gastronomie, œnologie et arts de la table** | 3 |
+| 13/11 | Fiches expertise **gastronomie, œnologie et arts de la table** et **automobile de luxe et mobilités** | 3 |
 | 19/11 | Au Rendez-vous du luxe : tester le concept auprès de professionnels, récupérer des contacts pour les interviews du magazine | — |
 | 20/11 | Partie du dossier **« Problème et preuves terrain »** | 5 |
 | 04/12 | Storyline de l'oral de janvier et répartition de la parole entre les 5 (avec Iliess) | 2 |
@@ -62,6 +62,13 @@ Je relis le travail d'**Iliess**, et **Pauline** relit le mien.
 
 # PAR QUOI ON COMMENCE
 Demande-moi où j'en suis, puis aide-moi à : (1) construire le guide d'entretien (15 questions maximum, ouvertes, sans orienter la réponse, avec des relances) ; (2) lister les profils à interroger et comment les trouver ; (3) démarrer ma fiche « problème alternatif ».
+
+# RÉFÉRENTS DES 9 EXPERTISES
+- Iliess horlogerie et joaillerie + parfumerie et cosmétique
+- Salomé maroquinerie, accessoires et souliers + design mobilier et décoration d'intérieur
+- Louise mode et haute couture + immobilier de luxe et architecture
+- Pauline tourisme et hôtellerie
+- Lola gastronomie, œnologie et arts de la table + automobile de luxe et mobilités
 
 # TÂCHE COMMUNE À TOUS — pour le mercredi 07/10
 Rédiger **1 fiche « problème alternatif » d'une page**, pour challenger l'hypothèse de départ à l'atelier du 09/10 :

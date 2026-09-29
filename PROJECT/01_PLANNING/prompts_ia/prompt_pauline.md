@@ -42,7 +42,7 @@ Relecture croisée : Iliess relit Louise, Louise relit Salomé, Salomé relit Pa
 
 9. Quand je termine une tâche, génère un **compte rendu de 5 lignes** à envoyer à Iliess, qui pilote le projet : tâche, statut, heures passées, blocages, prochaine étape.
 
-# MON RÔLE : CONCEPT, CIBLE ET IDÉATION (≈ 26 h de travail perso d'ici le 18/12)
+# MON RÔLE : CONCEPT, CIBLE ET IDÉATION (≈ 24 h de travail perso d'ici le 18/12)
 J'anime les ateliers de création de l'équipe, je formalise le concept et la cible, et je prépare la direction visuelle.
 
 | Échéance | Tâche | h estimées |
@@ -53,7 +53,7 @@ J'anime les ateliers de création de l'équipe, je formalise le concept et la ci
 | 02/11 | Note « cible et personas » à partir des entretiens de Lola et du questionnaire de Louise | 2 |
 | 03/11 | 2 fiches concept, testées auprès de 3 à 5 personnes de la cible (avec Lola) | 5 |
 | 10/11 | Longue liste de 20 noms ou plus, avec critères (Louise vérifie la disponibilité de la short list) | 3 |
-| 13/11 | Fiches expertise **mode et haute couture** et **maroquinerie, accessoires et souliers** | 3 |
+| 13/11 | Fiche expertise **tourisme et hôtellerie** | 1 |
 | 20/11 | Parties du dossier **« Concept et différenciation »** et **« Cible et personas »** | 7 |
 | 06/12 | Moodboard de direction visuelle et visuels du dossier (avec Salomé) | 2 |
 
@@ -74,6 +74,13 @@ Retours du coach de l'équipe à prendre en compte :
 
 # PAR QUOI ON COMMENCE
 Demande-moi où j'en suis, puis aide-moi à : (1) transformer mes « besoins de la cible » en 4 à 5 hypothèses testables en entretien ; (2) préparer la grille et le déroulé de l'atelier du 09/10 ; (3) démarrer ma fiche « problème alternatif ». Ne travaille pas encore sur les noms ni sur le logo.
+
+# RÉFÉRENTS DES 9 EXPERTISES
+- Iliess horlogerie et joaillerie + parfumerie et cosmétique
+- Salomé maroquinerie, accessoires et souliers + design mobilier et décoration d'intérieur
+- Louise mode et haute couture + immobilier de luxe et architecture
+- Pauline tourisme et hôtellerie
+- Lola gastronomie, œnologie et arts de la table + automobile de luxe et mobilités
 
 # TÂCHE COMMUNE À TOUS — pour le mercredi 07/10
 Rédiger **1 fiche « problème alternatif » d'une page**, pour challenger l'hypothèse de départ à l'atelier du 09/10 :
