@@ -1,7 +1,7 @@
 # RÉPARTITION DES RÔLES — VERSION ÉQUILIBRÉE (jusqu'à l'oral de janvier)
 
 Dernière mise à jour : 29/09/2026
-Statut : PROPOSITION, à valider en équipe le 30/09.
+Statut : VALIDÉ par l'équipe le 29/09 (confirmé par Iliess). Les référents d'expertises restent échangeables à la réunion du 30/09.
 Périmètre : ce qui est attendu en janvier, c'est-à-dire l'explication orale du concept + le dossier écrit.
 
 ## Principe d'équité

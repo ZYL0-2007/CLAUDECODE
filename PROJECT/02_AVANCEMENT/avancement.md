@@ -4,14 +4,15 @@
 29/09/2026
 
 ## État global
-Cadrage en cours. Janvier = explication orale du concept + dossier écrit (FAIT, 29/09). Date exacte, format du dossier et durée de l'oral inconnus. Rôles = proposition à valider le 30/09.
+Cadrage bien avancé : rôles définis et validés, Drive partagé avec les 4, revue transmise à Pauline. Janvier = explication orale du concept + dossier écrit. Il manque la date exacte et le format du dossier (email au prof).
 
 ## Tâches par membre
 | MEMBRE | TÂCHE | STATUT | DEADLINE | RETARD |
 |---|---|---|---|---|
 | Iliess | Envoyer au prof l'email de questions de cadrage | À FAIRE | 29/09 | — |
-| Iliess | Animer la réunion de lancement et faire valider la répartition équilibrée | À FAIRE | 30/09 14h | — |
-| Iliess | Partager le dossier Drive avec les 4 autres | À FAIRE | 02/10 | — |
+| Iliess | Animer la réunion de lancement : règle de décision, rituels, confirmation des référents d'expertises, lancement des fiches problème | À FAIRE | 30/09 14h | — |
+| Iliess | Partager le dossier Drive avec les 4 autres | FAIT (29/09) | 02/10 | — |
+| Iliess | Transmettre à Pauline la revue de sa proposition | FAIT (29/09) | 29/09 | — |
 | Salomé | Ouvrir l'équipe Canva et fixer la convention de nommage | À FAIRE | 04/10 | — |
 | Louise | Tableau dispos + logiciels maîtrisés des 5 | À FAIRE | 03/10 | — |
 | Lola | Guide d'entretien terrain (relu par Iliess) | À FAIRE | 08/10 | — |
@@ -28,11 +29,11 @@ Cadrage en cours. Janvier = explication orale du concept + dossier écrit (FAIT,
 - Disponibilités et logiciels de Salomé, Pauline, Lola et Louise inconnus.
 
 ## Priorités immédiates
-1. Mar. 29/09, Iliess : envoyer au prof l'email de questions (brief, grille, date et contenu de l'oral, date de D, 100 pages, budget d'impression, « marque perso », 9 expertises).
-2. Mer. 30/09 de 14h à 15h30 (séance d'autonomie obligatoire), ÉQUIPE : réunion de lancement pour valider ou amender les rôles et binômes, la règle de décision, les rituels et les outils, et répartir les référents d'expertises.
-3. Ven. 02/10, Iliess : partager le dossier Drive « ISG LUXE — Projet Marque » (déjà créé) avec les 4 autres et vérifier la synchro NAS ; Salomé ouvre l'équipe Canva pour le 04/10.
-4. Sam. 03/10, Louise : recueillir les disponibilités (soirs, week-ends, jobs, absences) et les logiciels maîtrisés des 5 dans un tableau du Drive.
-5. Pour le mer. 07/10, ÉQUIPE : chacun rédige une fiche « problème alternatif » sourcée pour l'atelier du 09/10 ; Lola prépare le guide d'entretien et Louise le questionnaire pour le 08/10.
+1. Iliess : envoyer au prof l'email de questions (date de l'oral, format du dossier, nom attendu en janvier ?, liste des 9 expertises).
+2. Mer. 30/09 de 14h à 15h30, ÉQUIPE : fixer la règle de décision et les rituels (point hebdo, heures du lundi), confirmer les référents d'expertises, lancer les fiches problème.
+3. Chacun : coller son prompt IA (Drive > 01_PLANNING > Prompts IA) et démarrer ses premières tâches.
+4. Sam. 03/10, Louise : tableau des disponibilités et des logiciels ; dim. 04/10, Salomé : équipe Canva et convention de nommage.
+5. Pour le mer. 07/10, ÉQUIPE : 1 fiche « problème alternatif » chacun ; Lola le guide d'entretien et Louise le questionnaire pour le 08/10.
 
 ## Prochain jalon
 Jeudi 16/10/2026 — J1 : problème validé collectivement (repli 23/10). Objectif final avant Noël : dossier écrit gelé le 12/12, oral prêt le 18/12.
