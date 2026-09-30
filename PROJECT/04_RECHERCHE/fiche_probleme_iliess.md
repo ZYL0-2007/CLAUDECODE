@@ -1,6 +1,6 @@
 # FICHE « PROBLÈME ALTERNATIF » — ILIESS (brouillon V1, 30/09/2026)
 
-Statut : BROUILLON à relire et à reformuler avec tes mots avant le point du mercredi 07/10.
+Statut : V1 relue par Iliess le 30/09. À présenter au point du mercredi 07/10.
 ⚠️ Toutes les sources ci-dessous ont été vues via des extraits de moteur de recherche uniquement. Il faut les ouvrir et vérifier chaque chiffre mot pour mot avant de les citer dans le dossier [À VÉRIFIER].
 
 ## 1. Le problème (une phrase)

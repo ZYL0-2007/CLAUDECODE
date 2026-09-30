@@ -13,6 +13,7 @@ Cadrage terminé côté équipe : rôles, règle de décision, point du mercredi
 | Iliess | Réunion de lancement : règle de décision, point du mercredi et référents d'expertises validés | FAIT (29/09) | 30/09 14h | — |
 | Iliess | Partager le dossier Drive avec les 4 autres | FAIT (29/09) | 02/10 | — |
 | Iliess | Transmettre à Pauline la revue de sa proposition | FAIT (29/09) | 29/09 | — |
+| Iliess | Fiche « problème alternatif » (04_RECHERCHE) : « le luxe parle à ses clients au lieu de les écouter » | FAIT (30/09, relue) | 07/10 | — |
 | Salomé | Ouvrir l'équipe Canva et fixer la convention de nommage | À FAIRE | 04/10 | — |
 | Salomé | Planche d'inspirations magazine (benchmark, sans DA figée) | EN COURS | 25/10 | — |
 | Louise | Tableau dispos + logiciels maîtrisés des 5 | À FAIRE | 03/10 | — |
